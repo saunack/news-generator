@@ -1,2 +1,0 @@
-# news-generator
-Ongoing 

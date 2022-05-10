@@ -1,0 +1,10 @@
+selenium
+scrapy
+daiquiri
+collections
+transformers
+pytorch
+numpy
+pandas
+dataclasses
+typing
