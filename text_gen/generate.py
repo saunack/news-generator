@@ -15,7 +15,7 @@ def add_arguments(parser):
         "--length", "-l", type=int, default=500, help="Max length of output"
     )
     parser.add_argument(
-        "-k", type=int, default=40, help="Top k smapling"
+        "-k", type=int, default=40, help="Top k sampling"
     )
     parser.add_argument(
         "-p", type=float, default=0.7, help="nucleus sampling (1.0 for disabling)"
