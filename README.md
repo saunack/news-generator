@@ -1,11 +1,3 @@
-https://github.com/huggingface/transformers/blob/eca77f4719531ecaabe9ec6b2dee6075a391d98a/examples/pytorch/language-modeling/README.md for finetuning model
-data.py for dataset creation
-
-generate.sh uses generate.py
-
-usage:-
-
-
 # News Generator using GPT 2
 News generator using OpenAI's GPT2 via the [transformers library](https://huggingface.co/transformers/v2.0.0/index.html) provided by [HuggingFace](https://huggingface.co/)
 
